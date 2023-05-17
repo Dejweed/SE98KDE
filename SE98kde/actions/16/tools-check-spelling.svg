@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="font-select.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect531"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" /></defs><style
+     id="current-color-scheme">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }
+.ColorScheme-NegativeText { color:#da4453; }
+.ColorScheme-NeutralText { color:#f67400; }
+.ColorScheme-PositiveText { color:#27ae60; }</style><sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="45.037263"
+     inkscape:cx="7.3716736"
+     inkscape:cy="9.347815"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"><inkscape:grid
+       type="xygrid"
+       id="grid248" /></sodipodi:namedview><path
+     style="fill:currentColor;stroke-width:1"
+     d="m 2,10 v 1 h 1 v -1 z m 1,1 v 1 h 1 v -1 z m 1,0 H 5 V 10 H 4 Z m 1,0 v 1 h 1 v -1 z m 1,0 H 7 V 10 H 6 Z m 1,0 v 1 h 1 v -1 z m 1,0 H 9 V 10 H 8 Z m 1,0 v 1 h 1 v -1 z m 1,0 h 1 v -1 h -1 z m 1,0 v 1 h 1 v -1 z m 1,0 h 1 v -1 h -1 z m 1,0 v 1 h 1 V 11 Z M 2,11 H 1 v 1 h 1 z"
+     id="path883"
+     class="ColorScheme-NeutralText"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" /><path
+     style="fill:currentColor;stroke-width:1"
+     d="M 2.0000003,3 V 4 H 5 V 5 H 2.0000003 V 6 H 1 V 8 H 2.0000003 V 9 H 7 V 4 H 6 V 3 Z M 9,3 V 4 H 8 v 4 h 1 v 1 h 4 V 8 h 1 V 7 H 12 V 8 H 10 V 6 h 4 V 4 H 13 V 3 Z m 1,1 h 2 V 5 H 10 Z M 3.0000003,6 H 5 V 8 H 3.0000003 Z"
+     id="rect618"
+     class="ColorScheme-Text"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccc" /></svg>

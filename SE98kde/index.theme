@@ -1,0 +1,61 @@
+[Icon Theme]
+Name=SE98 KDE
+Comment=Addon for Win98SE, follows colorscheme.
+
+Example=user-desktop
+Inherits=SE98,Breeze,hicolor
+
+FollowsColorScheme=true
+
+# KDE Specific Stuff
+DesktopDefault=48
+DesktopSizes=16,22,24,32,48,64
+ToolbarDefault=22
+ToolbarSizes=16,22,24,32,48,64
+MainToolbarDefault=22
+MainToolbarSizes=16,22,24,32,48,64
+SmallDefault=16
+SmallSizes=16,22,24,32,48,64
+PanelDefault=64
+PanelSizes=16,22,24,32,48,64
+DialogDefault=32
+DialogSizes=16,22,24,32,48,64
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+# ZipOverlay=zip_overlay
+
+#Directory list
+
+Directories=actions/16,actions/22,actions/24,actions/32,actions/48,actions/scalable
+
+[actions/16]
+Size=16
+Context=Actions
+Type=Fixed
+
+[actions/22]
+Size=22
+Context=Actions
+Type=Fixed
+
+[actions/24]
+Size=24
+Context=Actions
+Type=Fixed
+
+[actions/32]
+Size=32
+Context=Actions
+Type=Fixed
+
+[actions/48]
+Size=48
+Context=Actions
+Type=Fixed
+
+[actions/scalable]
+Size=16
+MinSize=8
+MaxSize=256
+Context=Actions
+Type=Scalable

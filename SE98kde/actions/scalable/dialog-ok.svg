@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg620"
+   width="16"
+   version="1.1"
+   height="16"
+   sodipodi:docname="dialog-ok.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     id="namedview313"
+     showgrid="true"
+     inkscape:zoom="25.875"
+     inkscape:cx="5.9516908"
+     inkscape:cy="6.8405797"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg620"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><inkscape:grid
+       type="xygrid"
+       id="grid4713"
+       spacingx="0.5"
+       spacingy="0.5" /></sodipodi:namedview><metadata
+     id="metadata624"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs2"><inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect454"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,4.0114285,0,1 @ F,0,0,1,0,12.034286,0,1 @ F,0,0,1,0,12.034286,0,1 @ F,0,0,1,0,12.034286,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,11.346036,0,1 @ F,0,0,1,0,11.346033,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" /></defs><style
+     id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style><path
+     style="fill:currentColor;stroke-width:1"
+     d="M 3.684266,14 H 2.93723 L 2.384042,12.558413 1.830853,11.116827 2.165427,9.3912796 2.5,7.5 H 5 V 8.6248746 10.416416 L 9.5,6 14,1.5835841 V 3.0793839 4.5751837 L 9.215651,9.2875918 4.431302,14 Z"
+     id="rect338-2"
+     class="ColorScheme-Text"
+     sodipodi:nodetypes="cccccccccccccccc" /></svg>

@@ -6,4 +6,4 @@ localshareicons="$HOME/.local/share/icons"
 if [ ! -d "$localshareicons" ]; then
 mkdir -p ""$localshareicons""
 fi
-cp -rv "$PWD/SE98kde" "$localshareicons"
+cp -rv "$(dirname -- "$0")/SE98kde" "$localshareicons"

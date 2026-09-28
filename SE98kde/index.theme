@@ -3,7 +3,7 @@ Name=SE98 KDE
 Comment=Addon for Win98SE, follows colorscheme.
 
 Example=user-desktop
-Inherits=SE98,Breeze,hicolor
+Inherits=SE98,breeze,hicolor
 
 FollowsColorScheme=true
 
